@@ -58,12 +58,45 @@ rmse=np.sqrt(mse)
 print('RMSE = ',rmse)
 ```
 ## Output:
-<img width="390" alt="image" src="https://user-images.githubusercontent.com/94836154/228607005-08e711f1-1e88-453c-a0bf-f51821a0a50b.png">
-<img width="242" alt="image" src="https://user-images.githubusercontent.com/94836154/228607467-a75fb527-5567-4d21-abcc-ba5bee867722.png">
-<img width="341" alt="image" src="https://user-images.githubusercontent.com/94836154/228607825-bd4c32d0-2709-4274-9c0f-1e6fb5f47312.png">
-<img width="469" alt="image" src="https://user-images.githubusercontent.com/94836154/228608214-e2375fa2-9e91-4d97-9569-db5b0ca18ce7.png">
-<img width="373" alt="image" src="https://user-images.githubusercontent.com/94836154/228608461-6aee2bbf-6f1e-41c2-82c9-87a23353a568.png">
-<img width="380" alt="image" src="https://user-images.githubusercontent.com/94836154/228608597-6e5496ce-4ae7-4156-8c95-db3b3a841cf3.png">
+1.df.head()
+
+
+![image](https://user-images.githubusercontent.com/94836154/229478850-203156f5-c3e0-4862-9608-ac78042f90bd.png)
+
+2.df.tail()
+
+
+![image](https://user-images.githubusercontent.com/94836154/229478896-6025a80f-dbec-47ba-bb13-f35ee270b885.png)
+
+3.Array value of X
+
+
+![image](https://user-images.githubusercontent.com/94836154/229479052-5c933ff4-e752-45c2-a3de-b3fe3774fb09.png)
+
+4.Array value of Y
+
+
+![image](https://user-images.githubusercontent.com/94836154/229479108-36d609ff-7b70-4500-9fe0-0290c91a4541.png)
+
+5.Values of Y prediction
+
+
+![image](https://user-images.githubusercontent.com/94836154/229479152-ed314fd5-fd2c-41d9-988f-802dd61eaa47.png)
+
+6.Array values of Y test
+
+
+![image](https://user-images.githubusercontent.com/94836154/229479219-a432f6d4-59c7-4c90-a1cb-e3891f7f1111.png)
+
+7.Training Set Graph
+
+
+![image](https://user-images.githubusercontent.com/94836154/229479266-efc4648d-1c26-400f-b6e7-875ce066e7f0.png)
+
+8.Values of MSE, MAE and RMSE
+
+
+![image](https://user-images.githubusercontent.com/94836154/229479303-bc3d6fbd-4d2e-40c4-b5db-f24cd85672a9.png)
 
 ## Result:
 
